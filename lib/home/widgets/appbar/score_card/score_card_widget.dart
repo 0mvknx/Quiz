@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/foundation/key.dart';
-import 'package:flutter/src/widgets/framework.dart';
 import 'package:quiz/core/app_colors.dart';
 import 'package:quiz/core/app_text_styles.dart';
 import 'package:quiz/home/widgets/appbar/chart/chart_widget.dart';
