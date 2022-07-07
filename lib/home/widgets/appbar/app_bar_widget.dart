@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:quiz/core/app_gradients.dart';
 import 'package:quiz/core/app_text_styles.dart';
-import 'score_card/score_card_widget.dart';
+import 'package:quiz/home/widgets/score_card/score_card_widget.dart';
 
 class AppBarWidget extends PreferredSize {
   AppBarWidget()
