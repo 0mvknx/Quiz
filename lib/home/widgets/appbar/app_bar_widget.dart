@@ -21,13 +21,14 @@ class AppBarWidget extends PreferredSize {
                     children: [
                       Text.rich(
                         TextSpan(
-                            text: ("Olá, "),
-                            style: AppTextStyles.title,
-                            children: [
-                              TextSpan(
-                                  text: ("Marcos Vinicios."),
-                                  style: AppTextStyles.titleBold),
-                            ]),
+                          text: ("Olá, "),
+                          style: AppTextStyles.title,
+                          children: [
+                            TextSpan(
+                                text: ("Marcos Vinicios."),
+                                style: AppTextStyles.titleBold),
+                          ],
+                        ),
                       ),
                       Container(
                         width: 58,
