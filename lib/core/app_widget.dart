@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quiz/challenge/challenge_page.dart';
-import 'package:quiz/home/home_page.dart';
-import 'package:quiz/splash/splash.page.dart';
+import 'package:quiz/challenge/widgets/challenge_page.dart';
 
 class AppWidget extends StatelessWidget {
   @override
